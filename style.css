@@ -62,6 +62,27 @@ h3{
     margin: 20px auto;
 }
 
+blockquote {
+    color: #80806f;
+    font-size: 25px;
+    width: 35%;
+    text-align: center;
+    margin: auto;
+    font-family:'Galdeano',sans-serif;
+    padding: 1%;
+    text-shadow: 1px 1px 2px #757574;
+}
+
+blockquote span{
+    color:#31312d;
+}
+
 a{
-    decoration: none;
+    text-decoration: none;
+    color: #31312d;
+}
+
+a:hover {
+    color: #d1d1a0;
+    background-color: #a8a8a1;
 }
