@@ -1,4 +1,4 @@
-# Himanshu16Singh.github.io
+## Tribute-Page
 tribute page using HTML5, CSS3.
 
 <div align="center">
