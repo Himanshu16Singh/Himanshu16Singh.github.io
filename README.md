@@ -5,4 +5,4 @@ tribute page using HTML5, CSS3.
   <img src="images/tribute.PNG" width="auto" height="auto">
 </div>
 
-# Go [live](https://himanshu16singh.github.io/)
+# Go [live](https://himanshu16singh.github.io/Tribute-Page/)
