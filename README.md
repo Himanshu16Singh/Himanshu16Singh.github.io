@@ -5,5 +5,5 @@ tribute page using HTML5, CSS3.
   <img src="images/tribute.PNG" width="auto" height="auto">
 </div>
 
-### Go [live🚀](https://himanshu16singh.github.io/Tribute-Page/)
+### Go [live🚀](https://hsnice16.github.io/Tribute-Page/)
 ### Article I wrote : [let me read🚀](https://hackernoon.com/how-to-design-a-tribute-page-with-basic-html5-and-css3-287v33mk)
